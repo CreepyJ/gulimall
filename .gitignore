@@ -16,6 +16,6 @@ buildNumber.properties
 **/.mvn
 **/target
 
-.idead
+.idea
 
 **/.gitignore
